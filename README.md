@@ -1,1 +1,2 @@
 # excursion
+Codemy learning project
